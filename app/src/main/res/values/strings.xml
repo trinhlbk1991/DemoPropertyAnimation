@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo Property Animation</string>
+    <string name="value_animator">Value Animator</string>
+    <string name="object_animator">Object Animator</string>
+    <string name="animator_set">Animator Set</string>
+    <string name="interpolator">Interpolator</string>
+</resources>
