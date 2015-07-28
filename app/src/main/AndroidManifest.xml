@@ -33,6 +33,10 @@
             android:name=".InterpolatorActivity"
             android:label="@string/interpolator" />
 
+        <activity
+            android:name=".XmlActivity"
+            android:label="@string/xml" />
+
     </application>
 
 </manifest>

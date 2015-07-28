@@ -4,4 +4,5 @@
     <string name="object_animator">Object Animator</string>
     <string name="animator_set">Animator Set</string>
     <string name="interpolator">Interpolator</string>
+    <string name="xml">XML</string>
 </resources>

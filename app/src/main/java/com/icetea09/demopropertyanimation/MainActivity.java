@@ -19,6 +19,7 @@ public class MainActivity extends ActionBarActivity implements View.OnClickListe
         findViewById(R.id.btn_object_animator).setOnClickListener(this);
         findViewById(R.id.btn_animator_set).setOnClickListener(this);
         findViewById(R.id.btn_interpolator).setOnClickListener(this);
+        findViewById(R.id.btn_xml).setOnClickListener(this);
     }
 
     @Override
@@ -35,6 +36,9 @@ public class MainActivity extends ActionBarActivity implements View.OnClickListe
                 break;
             case R.id.btn_interpolator:
                 navigate(InterpolatorActivity.class);
+                break;
+            case R.id.btn_xml:
+                navigate(XmlActivity.class);
                 break;
         }
     }

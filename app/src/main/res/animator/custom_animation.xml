@@ -1,0 +1,21 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:ordering="sequentially">
+    <set>
+        <objectAnimator
+            android:duration="1500"
+            android:propertyName="x"
+            android:valueFrom="30"
+            android:valueTo="400"
+            android:valueType="floatType" />
+        <objectAnimator
+            android:duration="1500"
+            android:propertyName="y"
+            android:valueFrom="30"
+            android:valueTo="800"
+            android:valueType="floatType" />
+    </set>
+    <objectAnimator
+        android:duration="1500"
+        android:propertyName="alpha"
+        android:valueTo="0f" />
+</set>

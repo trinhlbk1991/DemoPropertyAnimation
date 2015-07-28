@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DemoPropertyAnimation.iml" filepath="$PROJECT_DIR$/DemoPropertyAnimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoAndroidPropertyAnimation.iml" filepath="$PROJECT_DIR$/DemoAndroidPropertyAnimation.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
