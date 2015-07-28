@@ -4,13 +4,13 @@
         <objectAnimator
             android:duration="1500"
             android:propertyName="x"
-            android:valueFrom="30"
-            android:valueTo="400"
+            android:valueFrom="50"
+            android:valueTo="500"
             android:valueType="floatType" />
         <objectAnimator
             android:duration="1500"
             android:propertyName="y"
-            android:valueFrom="30"
+            android:valueFrom="50"
             android:valueTo="800"
             android:valueType="floatType" />
     </set>
