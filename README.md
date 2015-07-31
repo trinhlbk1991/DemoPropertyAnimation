@@ -1,7 +1,7 @@
 # DemoPropertyAnimation
 ![picture alt](https://farm1.staticflickr.com/377/20133847946_f39d13fff1_o.jpg)</br>
-This is the demo application for Ice Tea 09's post about Property Animation in Android.
-Link: [Property Animation in Android](http://icetea09.com/blog/2015/07/31/property-animation-in-android/)
+This is the demo application for Ice Tea 09's post about Property Animation in Android.</br>
+Link: [Property Animation in Android](http://icetea09.com/blog/2015/07/31/property-animation-in-android/)</br>
 In this post, you will learn about:
 * Android Property Animation Overview
 * Compare Property Animation and View Animation
@@ -19,7 +19,7 @@ In this post, you will learn about:
 5. Submit a pull request :D
 
 # Credits
-Trinh Le - Ice Tea 09
+Trinh Le - Ice Tea 09</br>
 [Property Animation in Android](http://icetea09.com/blog/2015/07/31/property-animation-in-android/)
 
 # License
